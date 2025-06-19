@@ -1,6 +1,7 @@
 # Alunos: 
-Eduarda Helena Silva 
-João Vinicius 
+Aluno(a): João Vinícius Pimenta de Pádua, 006533
+Aluno(a): Eduarda Helena Silva, 006687
+Aluno(a): Rodrigo Assis Almeida Geremia, 006606
 # Classificador de Esportes com CNN
 
 Este projeto consiste em um sistema de **classificação de imagens esportivas** utilizando uma rede neural convolucional (CNN), com interface web baseada em Flask.
